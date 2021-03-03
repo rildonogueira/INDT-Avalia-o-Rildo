@@ -1,0 +1,5 @@
+package com.livraria;
+
+public class InternacionalizacaoConfig {
+
+}

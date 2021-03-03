@@ -1,0 +1,5 @@
+campo.titulolivro.obrigatorio=O campo titulo do livro é obrigatório.
+campo.edicaolivro.obrigatorio=O campo edição do livro é obrigatório.
+campo.editoralivro.obrigatorio=O campo editora do livro é obrigatório.
+campo.nomeautorlivro.obrigatorio=O campo nome do autor do livro é obrigatório.
+campo.isbnlivro.obrigatorio=O campo isbn do livro é obrigatório.

@@ -1,0 +1,15 @@
+package com.livraria;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.annotation.ComponentScan;
+
+@SpringBootApplication
+@ComponentScan(basePackages = {"com.controle"})
+public class ControleLivrosApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ControleLivrosApplication.class, args);
+	}
+
+}

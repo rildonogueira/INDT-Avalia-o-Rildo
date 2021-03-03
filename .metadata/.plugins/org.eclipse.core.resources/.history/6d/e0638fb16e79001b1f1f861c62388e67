@@ -1,0 +1,5 @@
+package com.livraria.exceptions;
+
+public class ApiErrors {
+
+}

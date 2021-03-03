@@ -1,0 +1,5 @@
+campo.titulolivro.obrigatorio=titulo inválido.
+campo.edicaolivro.obrigatorio=edição inválida
+campo.editoralivro.obrigatorio=editora inválida
+campo.nomeautorlivro.obrigatorio=nome do autor invalido
+campo.isbnlivro.obrigatorio=sbn inválida

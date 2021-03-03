@@ -1,0 +1,15 @@
+package com.livraria.model;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Livros {
+	
+	private String titulolivro;
+	private String edicaolivro;
+	private String editoralivro;
+	private String nomeautorlivro;
+	private String isbnlivro;
+	
+	
+}

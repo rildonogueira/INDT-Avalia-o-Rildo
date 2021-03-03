@@ -1,0 +1,6 @@
+campo.idlivro.obrigatorio=id do livro é obrigatório, não pode está em branco
+campo.titulolivro.obrigatorio=titulo dp livro é obrigatório, não pode está em branco
+campo.edicaolivro.obrigatorio=edição do livro é obrigatório, não pode está em branco
+campo.editoralivro.obrigatorio=editora do livro é obrigatório, não pode está em branco
+campo.nomeautorlivro.obrigatorio=nome do autor do livro é obrigatório, não pode está em branco
+campo.isbnlivro.obrigatorio=isbn do livro é obrigatório, não pode está em branco

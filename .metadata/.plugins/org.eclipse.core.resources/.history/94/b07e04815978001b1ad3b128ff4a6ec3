@@ -1,0 +1,39 @@
+package com.livraria.model;
+
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+@Entity
+public class Livros {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Integer idlivro;
+	
+	@Column(nullable = false)
+	private String titulolivro;
+	
+	@Column(nullable = false)
+	private String edicaolivro;
+	
+	@Column(nullable = false)
+	private String editoralivro;
+	
+	@Column(nullable = false)
+	private String nomeautorlivro;
+	
+	@Column(nullable = false)
+	private String isbnlivro;
+	
+	
+	
+	
+}

@@ -1,0 +1,5 @@
+package com.livraria.config;
+
+public class WebConfig {
+
+}
