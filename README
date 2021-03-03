@@ -1,0 +1,20 @@
+git para baixar:
+https://github.com/rildonogueira/INDT-PROVA-RILDO
+
+O repositório possui os dois projetos:
+- controleLivros (backend)
+foi implementado com java spring boot;
+foi utilizado a IDE do STS java com springboot;
+para rodar basta importar o projeto direto do STS.
+foi utilizado banco de dados mysql
+
+- controleLivrosFront (frontend)
+foi implentado em Angular com bootstrap (todos com as ultimas versões)
+
+- Banco de dados:
+Foi utilizado o SGBD Mysql;
+dentro da pasta do git estão os dados do banco que podem ser importados,
+para ter uma pequena quantidade de dados;
+
+senha do banco: admin@2020
+usuário do banco: root
